@@ -3,7 +3,7 @@ This program is made directly for FiveM players that couldn't speak, because of 
 
 Installation
 This script is made to be a very simple. It should work with native TTS of your computer and also work with others. Wasn't tested yet on public server, but I'll be glad for any kind of feedback on my discord @nemluvka_cz_42420. In begining I had in mind use female voice, but sadly for Czech version isn't ms Zuzana no longer available.
-1. Extract the files from Zip into the folder
+1. Extract the files from tts_V1.0.zip into the folder
 2. Put the folder in [standalone] folder in your server resources
 3. refresh and then ensure [standalone]
 
